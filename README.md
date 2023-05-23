@@ -1,5 +1,6 @@
 # watchs
-[view project-]![Screenshot (78)](https://github.com/AliNikseresht/watchs/assets/120955025/e43a160a-e037-46a4-978f-5122fdb9fee0)
+[view project-]![1](https://github.com/AliNikseresht/watchs/assets/120955025/cb973fd4-e090-4a58-b7dd-f5b3964bce5c)
+
 
 - Time Zone
 - Technologies Used - html, Css
